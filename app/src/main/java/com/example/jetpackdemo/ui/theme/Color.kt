@@ -1,0 +1,25 @@
+package com.example.jetpackdemo.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Purple80 = Color(0xFFD0BCFF)
+val PurpleGrey80 = Color(0xFFCCC2DC)
+val Pink80 = Color(0xFFEFB8C8)
+val Purple40 = Color(0xFF6650a4)
+val PurpleGrey40 = Color(0xFF625b71)
+val Pink40 = Color(0xFF7D5260)
+val TitleColor = Color(0xFF111111)
+val BodyColor = Color(0xFF555555)
+val AccentColor = Color(0xFFFF5722)
+val Primary = Color(0xFF6200EE)
+val Secondary = Color(0xFF03DAC5)
+val Background = Color(0xFFFFFFFF)
+val TextPrimary = Color(0xFF000000)
+val TextSecondary = Color(0xFF666666)
+val TitleTextColor = Color(0xFF111111)
+val BodyTextColor = Color(0xFF555555)
+val HintTextColor = Color(0xFF999999)
+val BrightRed = Color(0xFFFF3B30)
+val BrightGreen = Color(0xFF34C759)
+val BrightBlue = Color(0xFF007AFF)
+val BrightYellow = Color(0xFFFFCC00)
