@@ -36,6 +36,9 @@ class MainActivity : ComponentActivity() {
                     composable("image_screen"){
                         ImageAndIconDemo(navController)
                     }
+                    composable("text_field"){
+                        TextFieldDemo(navController)
+                    }
                 }
                 /*Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Column(modifier = Modifier.padding(innerPadding)) {

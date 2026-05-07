@@ -70,7 +70,9 @@ fun ButtonDemo(navController: NavController) {
         }
 
         val imageModifier = Modifier.size(30.dp)
-        Button(onClick = { clickMe = "Send tapped" }) {
+        Button(onClick = { clickMe = "Send tapped"
+            navController.navigate("text_field")
+        }) {
             Icon(
                 painter = painterResource(R.drawable.ic_send),
                 contentDescription = null,

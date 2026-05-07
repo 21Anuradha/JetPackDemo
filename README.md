@@ -13,14 +13,6 @@ app/src/main/java/com/example/jetpackdemo/
 ├── TextDemo.kt                  → Text styles, sizes, decorations
 ├── ButtonDemo.kt                → Button, OutlinedButton, TextButton
 ├── ImageAndIconDemo.kt          → Image (drawable) + Material Icons
-├── TextFieldDemo.kt             → TextField, OutlinedTextField, password toggle
-├── SelectionControlsDemo.kt     → Checkbox (TriState), RadioButton, Switch
-├── SliderAndProgressDemo.kt     → Slider, RangeSlider, Circular & Linear Progress
-├── DividerSpacerDemo.kt         → HorizontalDivider, VerticalDivider, Spacer
-├── CardSurfaceBoxDemo.kt        → Card, ElevatedCard, OutlinedCard, Surface, Box
-├── ArrangementAlignmentDemo.kt  → Arrangement (SpaceBetween etc.) + Alignment
-├── ChipDemo.kt                  → FilterChip, AssistChip, InputChip
-└── FABAndIconButtonDemo.kt      → FAB variants, IconButton variants, IconToggleButton
 ```
 
 ---
