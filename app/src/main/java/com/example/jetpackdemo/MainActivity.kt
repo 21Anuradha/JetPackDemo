@@ -54,7 +54,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         text = "Hello $name!",
         style = MaterialTheme.typography.titleLarge,
         color = MaterialTheme.colorScheme.primary,
-        modifier = modifier.padding(horizontal = 30.dp, vertical = 10.dp)
+        modifier = modifier.padding(horizontal = 30.dp, vertical = 30.dp)
     )
 }
 
